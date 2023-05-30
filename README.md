@@ -19,5 +19,5 @@ CareConnect is a comprehensive healthcare management app designed to simplify an
 
 * React Native
 * TypeScript (Frontend)
-* Python (Backend) (will have seperate repo for backend linked here)
+* [Python](https://github.com/amana4416/CareConnect-backend) (Backend)
 
